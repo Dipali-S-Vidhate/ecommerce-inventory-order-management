@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": "C001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "phone": "9876500001"
+  },
+  {
+    "id": "C002",
+    "name": "Priya Patil",
+    "email": "priya.patil@example.com",
+    "phone": "9876500002"
+  },
+  {
+    "id": "C003",
+    "name": "Rahul Deshmukh",
+    "email": "rahul.deshmukh@example.com",
+    "phone": "9876500003"
+  },
+  {
+    "id": "C004",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.kulkarni@example.com",
+    "phone": "9876500004"
+  },
+  {
+    "id": "C005",
+    "name": "Vikram Joshi",
+    "email": "vikram.joshi@example.com",
+    "phone": "9876500005"
+  },
+  {
+    "id": "C006",
+    "name": "Neha Pawar",
+    "email": "neha.pawar@example.com",
+    "phone": "9876500006"
+  },
+  {
+    "id": "C007",
+    "name": "Rohan More",
+    "email": "rohan.more@example.com",
+    "phone": "9876500007"
+  },
+  {
+    "id": "C008",
+    "name": "Ananya Singh",
+    "email": "ananya.singh@example.com",
+    "phone": "9876500008"
+  }
+]

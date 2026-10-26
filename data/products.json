@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": "P001",
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "stock": 20,
+    "reorderLevel": 5
+  },
+  {
+    "id": "P002",
+    "name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 799,
+    "stock": 50,
+    "reorderLevel": 10
+  },
+  {
+    "id": "P003",
+    "name": "Keyboard",
+    "category": "Accessories",
+    "price": 1299,
+    "stock": 30,
+    "reorderLevel": 8
+  },
+  {
+    "id": "P004",
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 12000,
+    "stock": 15,
+    "reorderLevel": 4
+  },
+  {
+    "id": "P005",
+    "name": "Headphones",
+    "category": "Audio",
+    "price": 1999,
+    "stock": 25,
+    "reorderLevel": 5
+  },
+  {
+    "id": "P006",
+    "name": "USB Cable",
+    "category": "Accessories",
+    "price": 299,
+    "stock": 100,
+    "reorderLevel": 20
+  },
+  {
+    "id": "P007",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 25000,
+    "stock": 12,
+    "reorderLevel": 4
+  },
+  {
+    "id": "P008",
+    "name": "Power Bank",
+    "category": "Accessories",
+    "price": 1499,
+    "stock": 18,
+    "reorderLevel": 5
+  },
+  {
+    "id": "P009",
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 2499,
+    "stock": 14,
+    "reorderLevel": 4
+  },
+  {
+    "id": "P010",
+    "name": "Webcam",
+    "category": "Electronics",
+    "price": 3499,
+    "stock": 10,
+    "reorderLevel": 3
+  },
+  {
+    "id": "P011",
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 899,
+    "stock": 22,
+    "reorderLevel": 5
+  },
+  {
+    "id": "P012",
+    "name": "Printer",
+    "category": "Electronics",
+    "price": 8500,
+    "stock": 8,
+    "reorderLevel": 3
+  },
+  {
+    "id": "P013",
+    "name": "External Hard Drive",
+    "category": "Storage",
+    "price": 4999,
+    "stock": 16,
+    "reorderLevel": 4
+  },
+  {
+    "id": "P014",
+    "name": "Memory Card",
+    "category": "Storage",
+    "price": 699,
+    "stock": 40,
+    "reorderLevel": 10
+  },
+  {
+    "id": "P015",
+    "name": "Microphone",
+    "category": "Audio",
+    "price": 2799,
+    "stock": 2,
+    "reorderLevel": 5
+  }
+]

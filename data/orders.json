@@ -1,0 +1,165 @@
+
+[
+  {
+    "id": "O001",
+    "customerId": "C001",
+    "items": [
+      {
+        "productId": "P001",
+        "quantity": 1
+      },
+      {
+        "productId": "P002",
+        "quantity": 2
+      }
+    ],
+    "discount": 5,
+    "date": "2026-10-01",
+    "status": "delivered"
+  },
+  {
+    "id": "O002",
+    "customerId": "C002",
+    "items": [
+      {
+        "productId": "P005",
+        "quantity": 1
+      },
+      {
+        "productId": "P006",
+        "quantity": 3
+      }
+    ],
+    "discount": 0,
+    "date": "2026-10-03",
+    "status": "delivered"
+  },
+  {
+    "id": "O003",
+    "customerId": "C003",
+    "items": [
+      {
+        "productId": "P007",
+        "quantity": 1
+      }
+    ],
+    "discount": 10,
+    "date": "2026-10-05",
+    "status": "shipped"
+  },
+  {
+    "id": "O004",
+    "customerId": "C001",
+    "items": [
+      {
+        "productId": "P003",
+        "quantity": 2
+      },
+      {
+        "productId": "P014",
+        "quantity": 4
+      }
+    ],
+    "discount": 0,
+    "date": "2026-10-08",
+    "status": "delivered"
+  },
+  {
+    "id": "O005",
+    "customerId": "C004",
+    "items": [
+      {
+        "productId": "P004",
+        "quantity": 1
+      }
+    ],
+    "discount": 5,
+    "date": "2026-10-10",
+    "status": "pending"
+  },
+  {
+    "id": "O006",
+    "customerId": "C005",
+    "items": [
+      {
+        "productId": "P008",
+        "quantity": 2
+      },
+      {
+        "productId": "P009",
+        "quantity": 1
+      }
+    ],
+    "discount": 5,
+    "date": "2026-10-12",
+    "status": "delivered"
+  },
+  {
+    "id": "O007",
+    "customerId": "C006",
+    "items": [
+      {
+        "productId": "P010",
+        "quantity": 1
+      },
+      {
+        "productId": "P011",
+        "quantity": 1
+      }
+    ],
+    "discount": 0,
+    "date": "2026-10-15",
+    "status": "pending"
+  },
+  {
+    "id": "O008",
+    "customerId": "C007",
+    "items": [
+      {
+        "productId": "P012",
+        "quantity": 1
+      },
+      {
+        "productId": "P013",
+        "quantity": 2
+      }
+    ],
+    "discount": 10,
+    "date": "2026-10-18",
+    "status": "shipped"
+  },
+  {
+    "id": "O009",
+    "customerId": "C008",
+    "items": [
+      {
+        "productId": "P002",
+        "quantity": 1
+      },
+      {
+        "productId": "P006",
+        "quantity": 2
+      }
+    ],
+    "discount": 0,
+    "date": "2026-10-20",
+    "status": "cancelled"
+  },
+  {
+    "id": "O010",
+    "customerId": "C002",
+    "items": [
+      {
+        "productId": "P005",
+        "quantity": 2
+      },
+      {
+        "productId": "P014",
+        "quantity": 3
+      }
+    ],
+    "discount": 15,
+    "date": "2026-10-22",
+    "status": "pending"
+  }
+]

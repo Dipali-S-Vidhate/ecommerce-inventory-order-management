@@ -1,0 +1,19 @@
+
+{
+  "name": "ecommerce-inventory-order-management",
+  "version": "1.0.0",
+  "description": "E-commerce inventory and order management system using Node.js and JSON",
+  "type": "module",
+  "main": "src/orderService.js",
+  "scripts": {
+    "start": "node src/orderService.js list",
+    "test": "node --test",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0"
+  }
+}
